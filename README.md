@@ -187,7 +187,7 @@ Using CSS 3D, scrolling down causes the user's information to float backward as 
 * [Iris Huang]() -
   * Live Chat
   * Auction
-* [Derek Samms](https://www.linkedin.com/in/derek-samms/) - Derek.Samms@gmail.com
+* [Derek Samms](https://github.com/alfendor/) - Derek.Samms@gmail.com
   * User Profile
 
 
